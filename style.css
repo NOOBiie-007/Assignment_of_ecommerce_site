@@ -62,10 +62,6 @@ p{
 .mid{
     margin-top: 60px;
 }
-.end{
-    margin-top: 60px;
-    margin-left: 150px;
-}
 .coll{
     margin-top: 60px;
 }
@@ -73,17 +69,11 @@ p{
     margin-top: 110px;
 }
 .collll img{
-    height:500px ;
-    width: 500px;
+    height:;
+    width: ;
 }
 .categories{
     margin-top: 200px;
     width: 200px;
     margin-left: 600px;
-}
-.catg{
-    text-align: center;
-    border-bottom: 7px solid orangered;
-    border-bottom-right-radius: 10px;  
-    border-bottom-left-radius:10px ;
 }
